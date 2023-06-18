@@ -1,0 +1,1 @@
+This directory contains files about different tasks on the C programming language.
