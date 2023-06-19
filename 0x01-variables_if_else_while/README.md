@@ -1,0 +1,1 @@
+This directory contains projects about variables, if and else statements, and loops in C programming language.
