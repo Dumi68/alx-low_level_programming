@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
-/** 
+#include <stio.h>
+/**
  * main - Entry point
- * Description: Print if input number is positive, is zero or is negative
- * Return: (0) Success 
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
