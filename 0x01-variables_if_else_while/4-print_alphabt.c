@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-int ch;
+int ch = 'a';
 while (ch <= 'z')
 {
 if (ch != 'e' && ch != 'q')
