@@ -2,9 +2,9 @@
 #include <stdio.h>
 /**
  * main - prints numbers 1-100
- * replace multiples of three with Fizz
- * relace multiples of five with Buzz
- * Return: Always 0
+ * but print multiples of three as Fizz
+ * ans the multiples of five with Buzz
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
