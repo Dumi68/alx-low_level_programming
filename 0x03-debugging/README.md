@@ -1,0 +1,1 @@
+This directory contains tasks about debugging in the C programming language.
