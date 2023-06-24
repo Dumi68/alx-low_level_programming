@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * print_sign - outputs the sign of the number
  * @n: the number to check
@@ -8,12 +7,8 @@
  * -1 and print - if n < 0
  */
 
-void positive_or_negative(int i)
+void positive_or_negative(int n)
 {
-int n;
-
-srand(time(0));
-n = rand() - RAND_MAX / 2;
 if (n > 0)
 {
 printf("%d is positive\n", n);
@@ -26,5 +21,5 @@ else
 {
 printf("%d is negative\n", n);
 }
-return (0);
+return;
 }
