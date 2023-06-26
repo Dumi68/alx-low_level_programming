@@ -1,0 +1,1 @@
+This directory contains tasks on pointers, arrays and strings in the C programming language. Global variables were not used, ie. prototypes were used.
