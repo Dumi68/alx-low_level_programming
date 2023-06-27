@@ -21,6 +21,6 @@ n = ((write + 1) / 2);
 for (x = n; str[x] != '\0'; x++)
 {
 _putchar(str[x]);
-_putchar('\n');
 }
+_putchar('\n');
 }
