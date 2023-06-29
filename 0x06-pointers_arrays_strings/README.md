@@ -1,0 +1,1 @@
+This directory contin tasks about pointers, arrays and strings in the C programming language.
